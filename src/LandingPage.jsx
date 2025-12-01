@@ -31,7 +31,7 @@ export default function LandingPage({ onLaunch }) {
             Enter the Market <span style={{marginLeft: '10px'}}>→</span>
           </button>
 
-          <p style={styles.trustText}>$1.2M Volume Traded in Beta</p>
+          <p style={styles.trustText}>Arbitraging Human Intelligence</p>
         </div>
 
         {/* Visual Decoration (Abstract Phone) */}
